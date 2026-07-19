@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 300"
+     width="490" height="300">
+    <rect x="0" y="0" width="490" height="300" 
+        fill="#0d1117" rx="8"/>
+    <rect x="0" y="0" width="490" height="30" 
+        fill="#30363d" rx="8"/>
+    <rect x="0" y="15" width="490" height="15" 
+        fill="#30363d"/>
+    <text x="15" y="20" font-family="monospace" font-size="14" 
+        fill="#58a6ff">> softwarelincoln26@github</text>
+    <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" 
+            dur="0.3s" begin="0.3s" fill="freeze"/>
+        <text x="15" y="55" font-family="monospace" font-size="12" 
+            fill="#7ee787">Role:</text>
+        <text x="90" y="55" font-family="monospace" font-size="12" 
+            fill="#c9d1d9">Cybersecurity Student & Hardware Hacker</text>
+    </g>
+    <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" 
+            dur="0.3s" begin="0.3s" fill="freeze"/>
+        <text x="15" y="90" font-family="monospace" font-size="12" 
+            fill="#7ee787">Stack:</text>
+        <text x="90" y="90" font-family="monospace" font-size="12" 
+            fill="#c9d1d9">Python, C/C++, JavaScript, Linux</text>
+    </g>
+    <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" 
+            dur="0.3s" begin="0.3s" fill="freeze"/>
+        <text x="15" y="125" font-family="monospace" font-size="12" 
+            fill="#7ee787">Location:</text>
+        <text x="90" y="125" font-family="monospace" font-size="12" 
+            fill="#c9d1d9">Learning & Building</text>
+    </g>
+    <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" 
+            dur="0.3s" begin="0.3s" fill="freeze"/>
+        <text x="15" y="160" font-family="monospace" font-size="12" 
+            fill="#7ee787">Status:</text>
+        <text x="90" y="160" font-family="monospace" font-size="12" 
+            fill="#c9d1d9">Online</text>
+    </g>
+    <line x1="15" y1="195" x2="475" y2="195" 
+        stroke="#30363d" stroke-width="1"/>
+    <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" 
+            dur="0.3s" begin="1.0s" fill="freeze"/>
+        <text x="15" y="205" font-family="monospace" font-size="12" 
+            fill="#f0883e">★ ESP32 Security Projects</text>
+    </g>
+    <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" 
+            dur="0.3s" begin="1.2s" fill="freeze"/>
+        <text x="15" y="240" font-family="monospace" font-size="12" 
+            fill="#f0883e">★ AI Voice Assistant (Jarvis)</text>
+    </g>
+    <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" 
+            dur="0.3s" begin="1.4s" fill="freeze"/>
+        <text x="15" y="275" font-family="monospace" font-size="12" 
+            fill="#f0883e">★ Network Security Tools</text>
+    </g>
+</svg>

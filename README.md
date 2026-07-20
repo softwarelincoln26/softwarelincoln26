@@ -2,7 +2,7 @@
 
 ## `softwarelincoln26@github ~ $ ./contributions.sh`
 
-<img src="./contrib-heatmap.svg" width="860" />
+<img src="./contrib-heatmap.png" width="860" />
 
 <br><br>
 
@@ -10,8 +10,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./ascii-portrait.svg" width="370" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" /></td>
+<td valign="top"><img src="./ascii-portrait.png" width="370" /></td>
+<td valign="top"><img src="./info-card.png" width="490" /></td>
 </tr>
 </table>
 

@@ -37,15 +37,10 @@ def image_to_ascii_grid(image_path):
             idx = max(0, min(idx, len(RAMP) - 1))
             char = RAMP[idx]
             if char == ' ':
-                row.append('&nbsp;')
-            elif char == '<':
-                row.append('&lt;')
-            elif char == '>':
-                row.append('&gt;')
-            elif char == '&':
-                row.append('&amp;')
+                row.append('\u00A0')  # non-breaking space
             else:
                 row.append(char)
+        grid.append(''.join(row))
         grid.append(''.join(row))
     return grid
 

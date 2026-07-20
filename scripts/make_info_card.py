@@ -10,14 +10,14 @@ from pathlib import Path
 # Customize these for your profile
 PROFILE_CONFIG = {
     'name': 'softwarelincoln26',
-    'role': 'Cybersecurity Student & Hardware Hacker',
+    'role': 'Cybersecurity Student and Hardware Hacker',
     'stack': 'Python, C/C++, JavaScript, Linux',
     'highlights': [
         'ESP32 Security Projects',
         'AI Voice Assistant (Jarvis)',
         'Network Security Tools',
     ],
-    'location': 'Learning & Building',
+    'location': 'Learning and Building',
     'status': 'Online',
 }
 
@@ -59,7 +59,7 @@ def create_info_card_svg(config=None, output_path=None, static=False):
 
     title_y = 20
     lines.append(f'''    <text x="15" y="{title_y}" font-family="monospace" font-size="14" 
-        fill="{colors['title']}">{'>'} {config['name']}@github</text>''')
+        fill="{colors['title']}">&gt; {config['name']}@github</text>''')
 
     y_pos = 55
     card_lines = [
